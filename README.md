@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhinav Dubey - Aspiring Data Analyst
+# 👋 Hi, I'm Abhinav Dubey - an aspiring Data Analyst
 
 ### Driven by Data. Focused on Business Impact.
 
@@ -20,11 +20,11 @@ My objective is to move beyond mere reporting. I focus on creating a robust link
 
 | Category | Key Tools & Expertise |
 | ----- | ----- |
-| **Business Intelligence (BI)** | **Power BI**, Dashboard Building, Data Storytelling, KPI Tracking |
+| **Business Intelligence (BI)** | **Power BI**, **Tableau** Dashboard Building, Data Storytelling, KPI Tracking |
 | **Databases & Querying** | **SQL** (MySQL), ETL Processes, Data Warehousing |
 | **Statistical Methods** | **A/B Testing**, Exploratory Data Analysis (EDA), Hypothesis Testing, Regression Analysis |
 | **Programming** | Python (Pandas, NumPy, Matplotlib), R |
-| **General Tools** | Advanced Excel, Git, GitHub, Jupyter Notebooks |
+| **General Tools** | Advanced Excel, GitHub, Jupyter Notebooks |
 
 ### 🚀 Featured Projects (Applied Analytics Portfolio)
 
